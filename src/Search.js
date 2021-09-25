@@ -52,6 +52,10 @@ const Search = () => {
       </Link> */}
       <Link to="/">
         <button>To Page</button>
+        <button>To Page</button>
+        <button>To Page</button>
+        <button>To Page</button>
+        <button>To Page</button>
       </Link>
       {/* <SearchBarWrapper>
         <SearchBar
